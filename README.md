@@ -13,3 +13,9 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  warp-ctc [click here to download](https://github.com/SeanNaren/Warp-ctc)
  
  Just using pip to establish your dev environment, eg. pip install tensorflow-gpu==1.6, pip install torchvesion(it will install pytorch meanwhile)
+ 
+## Run it
+ I share my models of crnn and ctpn, you can run it just for take a look of its effect.
+ >cd end2endDec_Rec
+ 
+ >run python3 ./ctpn_crnn_combined/end2endDet_Rec.py
