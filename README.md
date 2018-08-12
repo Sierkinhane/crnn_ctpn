@@ -5,4 +5,5 @@ First of all, thanks for the author of crnn and ctpn algorithm with opening thei
 Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is [ctpn](https://github.com/tianzhi0549/CTPN) original codes and a tensorflow version can be found [here](https://github.com/eragonruan/text-detection-ctpn)
 
 ## In my repository, ctpn is built by tensorflow, meanwile crnn is built by pytorch
-## Environment tensorflow-gpu(version>=1.6), pytorch(version>=0.3), warp-ctc[click here to download](https://github.com/SeanNaren/Warp-ctc)
+## Environment 
+>> tensorflow-gpu(version>=1.6), pytorch(version>=0.3), warp-ctc[click here to download](https://github.com/SeanNaren/Warp-ctc)
