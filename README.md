@@ -18,7 +18,8 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  
 ## Run it
  I share my models of crnn and ctpn, you can run it just for take a look of its effect.
- images and results are stored in detect_data file. 
+ 
+ Images and results are stored in detect_data file. 
  >cd end2endDec_Rec
  
  >python3 ./ctpn_crnn_combined/end2endDet_Rec.py
