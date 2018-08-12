@@ -6,6 +6,8 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
 
 ## In my repository, ctpn is built by tensorflow, meanwile crnn is built by pytorch
 ## Environment 
+ Ubuntu16.04(it's more appropriate to build warp-ctc than other)
+
  python3
  
  tensorflow-gpu(version>=1.6)
