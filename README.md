@@ -40,5 +40,6 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  
  ![]
  
+ if you want to create it by yourself, you can referrence dataset_preprocess
  
  
