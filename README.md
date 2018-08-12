@@ -44,6 +44,7 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  
  ## Train crnn models
  > cd train_crnn
+ 
  > python3 crnn_main.py --trainroot lmdb_data_set/xxx --valroot lmdb_data_set/xxx (--cuda)
  
  
