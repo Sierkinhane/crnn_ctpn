@@ -48,3 +48,5 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  > python3 crnn_main.py --trainroot lmdb_data_set/xxx --valroot lmdb_data_set/xxx (--cuda)
  
  
+ ## Here are some software version pictures
+ ![](https://github.com/Sierkinhane/LearningRecords/blob/master/software_version.png)
