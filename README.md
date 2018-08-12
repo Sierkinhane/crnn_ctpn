@@ -25,5 +25,5 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  >python3 ./ctpn_crnn_combined/end2endDet_Rec.py
  
  ## Results
- (https://github.com/Sierkinhane/Crnn_Ctpn_Unified/raw/master/end2endDec_Rec/detect_data/detect_images/1.png)
+ ![](https://github.com/Sierkinhane/Crnn_Ctpn_Unified/raw/master/end2endDec_Rec/detect_data/detect_images/1.png)
  
