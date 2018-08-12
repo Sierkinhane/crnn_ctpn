@@ -16,6 +16,8 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  
  warp-ctc [click here to download](https://github.com/SeanNaren/Warp-ctc), follow the author to build warp-ctc
  
+ cuda 9.0 and cudnn 7.0
+ 
  Just using pip to establish your dev environment, eg. pip install tensorflow-gpu==1.6, pip install torchvesion(it will install pytorch meanwhile)
  
 ## Run it
