@@ -38,7 +38,7 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  
  Here are some examples about chinese characters training data.
  
- ![]
+ ![](https://github.com/Sierkinhane/LearningRecords/blob/master/chinese_char.png)
  
  if you want to create it by yourself, you can reference **dataset_preprocess** directory.
  
