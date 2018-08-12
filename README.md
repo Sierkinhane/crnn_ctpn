@@ -29,7 +29,6 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  ## Results
  following is detect images example 
  ![](https://github.com/Sierkinhane/Crnn_Ctpn_Unified/raw/master/end2endDec_Rec/detect_data/detect_images/1.png)
- 
  ## results were save in detect_data/txt_results
  
  
