@@ -4,7 +4,7 @@ Unified text detection and recognition
 First of all, thanks for the author of crnn and ctpn algorithm with opening their codes.
 Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is [ctpn](https://github.com/tianzhi0549/CTPN) original codes and a tensorflow version can be found [here](https://github.com/eragonruan/text-detection-ctpn)
 
-## In my repository, ctpn is built by tensorflow, meanwile crnn is built by pytorch
+# In my repository, ctpn is built by tensorflow, meanwile crnn is built by pytorch
 ## Environment 
  Ubuntu16.04(it's more appropriate to build warp-ctc than other)
 
@@ -27,5 +27,8 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  >python3 ./ctpn_crnn_combined/end2endDet_Rec.py
  
  ## Results
+ following is detect images example 
  ![](https://github.com/Sierkinhane/Crnn_Ctpn_Unified/raw/master/end2endDec_Rec/detect_data/detect_images/1.png)
+ 
+ 
  
