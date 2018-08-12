@@ -32,7 +32,7 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  ### results were save in detect_data/txt_results
  
  ## Train model
- Here I just share the method that was used to train a crnn model.  In my training, ultimately it reached an accuracy of 97.8%.
+ Here I just share the method that was used to train a crnn model.  In my training, ultimately it reached an accuracy of **97.8%.**
  Before training, you should generate a lmdb dataset.
  >
  
