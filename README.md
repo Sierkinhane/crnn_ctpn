@@ -40,6 +40,10 @@ Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is
  
  ![]
  
- if you want to create it by yourself, you can referrence dataset_preprocess
+ if you want to create it by yourself, you can reference **dataset_preprocess** directory.
+ 
+ ## Train crnn models
+ > cd train_crnn
+ > python3 crnn_main.py --trainroot lmdb_data_set/xxx --valroot lmdb_data_set/xxx (--cuda)
  
  
