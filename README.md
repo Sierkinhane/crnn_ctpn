@@ -4,7 +4,7 @@ Unified text detection and recognition
 First of all, thanks for the author of crnn and ctpn algorithm with opening their codes.
 Here is [crnn](https://github.com/meijieru/crnn.pytorch) original codes, here is [ctpn](https://github.com/tianzhi0549/CTPN) original codes and a tensorflow version can be found [here](https://github.com/eragonruan/text-detection-ctpn)
 
-# In my repository, ctpn was built by tensorflow, meanwile crnn was built by pytorch
+# In my repository, ctpn was built in tensorflow, meanwile crnn was built in pytorch
 ## Environment 
  Ubuntu16.04(it's more appropriate to build warp-ctc than other)
 
